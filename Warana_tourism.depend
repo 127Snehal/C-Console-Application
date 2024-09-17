@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1726478770 source:c:\users\mankar\desktop\project\warana_tourism\main.c
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdlib.h>
+	<string.h>
+
